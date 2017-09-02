@@ -1,0 +1,20 @@
+{
+  "name": "doc-node",
+  "version": "1.0.0",
+  "description": "A simple api documentation engine for express applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godolatunji/DocNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godolatunji/DocNode/issues"
+  },
+  "homepage": "https://github.com/godolatunji/DocNode#readme"
+}
