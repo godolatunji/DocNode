@@ -338,5 +338,6 @@ function generateBodyStruct(array) {
 //     return html;
 
 // }
+var docgo = new DocGo();
 
-module.exports = new DocGo();
+module.exports = docgo;
